@@ -3,7 +3,7 @@
 Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş dinamik bir e-ticaret sipariş ve otomasyon arayüzüdür. Kullanıcıların müşteri bilgilerini girmesine, sepete ürün ekleyip çıkarmasına ve gerçek zamanlı olarak indirim, kargo ve genel toplam hesaplamalarına olanak tanır.
 
 ## Uygulama Ekran Görüntüsü
-![Uygulama Arayüzü]([<img width="777" height="541" alt="Screenshot 2026-05-16 002323" src="https://github.com/user-attachments/assets/1b8380ef-4b2b-4610-898c-a0044b7323f3" />
+([<img width="777" height="541" alt="Screenshot 2026-05-16 002323" src="https://github.com/user-attachments/assets/1b8380ef-4b2b-4610-898c-a0044b7323f3" />
 ])
 
 ## Özellikler
